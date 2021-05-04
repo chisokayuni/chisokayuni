@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chisokayuni
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Bachelors in Computing and Information Systems
-- 💞️ I’m looking to collaborate Github, Linkid and other platforms
+- 💞️ I’m looking to collaborate on Github, LinkedIn and other platforms
 - 📫 How to reach me kayunichiso@gmail.com
 
 <!---
