@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chisokayuni
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Bachelors in Computing and Information Systems
+- 👀 I’m interested in software development
+- 🌱 I have Bachelors in Computing with First Class Honors 
 - 💞️ I’m looking to collaborate on Github, LinkedIn and other platforms
 - 📫 How to reach me kayunichiso@gmail.com
 
